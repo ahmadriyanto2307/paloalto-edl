@@ -148,3 +148,4 @@ etc-eu2.nanopool.org
 goldrabprotect.cc
 dgaf2ncy4dtan.cloudfront.net
 api.unmineable.com
+world-content-3.com
