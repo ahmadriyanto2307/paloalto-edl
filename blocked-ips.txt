@@ -144,3 +144,4 @@ d2f9q8zryik75d.cloudfront.net
 trigger.translatevv.com
 nomaiei.sbs
 jrxciw2.xyz
+etc-eu2.nanopool.org
