@@ -183,3 +183,4 @@ api.indcat.cc
 or.onenessparmack.com
 motchillzw.cc
 calyra.cc
+xmr-eu1.nanopool.org
