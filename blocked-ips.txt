@@ -204,3 +204,4 @@ donate.ssl.xmrig.com
 tykgkrramc7tdp41v.net
 files.tryfairy.xyz
 spscryspy.com
+elx01.knas.systems
