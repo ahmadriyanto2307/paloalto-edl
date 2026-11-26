@@ -436,3 +436,4 @@ api.pulaer.cc
 prl-sg.kryptex.network
 juad888.us
 kryptex.network
+safety-detectives.com
